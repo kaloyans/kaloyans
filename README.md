@@ -1,16 +1,51 @@
-## Hi there 👋
+# Kaloyan Stankov
 
-<!--
-**kaloyans/kaloyans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Network & Infrastructure Engineer · Linux System Administrator · DevOps & Cloud Engineer**
 
-Here are some ideas to get you started:
+📍 Plovdiv, Bulgaria &nbsp;|&nbsp; 📧 kaloyan.stankov@yahoo.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/kaloyanstankov)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+Infrastructure and systems engineer with 4+ years of hands-on experience in NOC operations, incident management, Linux administration, and cloud infrastructure. Currently working at Delasport maintaining mission-critical production systems on GCP.
+
+I believe in automation over repetition, documentation over tribal knowledge, and monitoring everything.
+
+---
+
+## Core Stack
+
+| Area | Technologies |
+|------|-------------|
+| **Operating Systems** | Linux (RHEL / Ubuntu / Debian), Windows Server |
+| **Cloud** | Google Cloud Platform · AWS · Azure |
+| **Monitoring** | Grafana · Prometheus · OpenSearch · Zabbix · Site24/7 |
+| **Incident Management** | PagerDuty · Opsgenie · Jira · RCA |
+| **Containers** | Docker · Kubernetes (basic) |
+| **Networking** | DNS · DHCP · Routing · Switching · VPN · Firewall |
+| **Automation** | Bash · Jenkins · Git · Python (basic) |
+| **Virtualisation** | VMware ESXi · Hyper-V · KVM |
+
+---
+
+## Featured Projects
+
+| Repository | Description |
+|------------|-------------|
+| 🔭 [infra-monitoring-stack](https://github.com/kaloyans/infra-monitoring-stack) | Production-grade monitoring with Prometheus, Grafana & Alertmanager |
+| 🛠️ [linux-sysadmin-toolkit](https://github.com/kaloyans/linux-sysadmin-toolkit) | Bash scripts for everyday Linux administration tasks |
+| 🌐 [network-lab](https://github.com/kaloyans/network-lab) | Network topologies, DNS/DHCP configs, VPN & firewall setups |
+| ☁️ [cloud-infrastructure](https://github.com/kaloyans/cloud-infrastructure) | GCP infrastructure as code with Terraform |
+| 📋 [incident-runbooks](https://github.com/kaloyans/incident-runbooks) | Incident response runbooks, RCA templates & on-call playbooks |
+
+---
+
+## Certifications
+
+- Docker & Kubernetes: The Practical Guide
+- Mastering Linux: The Comprehensive Guide
+
+---
+
+*"Automate the boring stuff. Document everything else."*
