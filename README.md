@@ -56,6 +56,7 @@ I believe in automation over repetition, documentation over tribal knowledge, an
 
 | ⚙️ [ansible-infrastructure-automation](https://github.com/kaloyans/ansible-infrastructure-automation) | Ansible roles for CIS hardening, configuration management & monitoring agent deployment |
 
+| 🗄️ [postgresql-dba-toolkit](https://github.com/kaloyans/postgresql-dba-toolkit) | PostgreSQL backup automation, streaming replication, performance tuning & monitoring queries |
 ---
 
 ## Certifications
