@@ -1,5 +1,5 @@
 # Kaloyan Stankov
-**Network & Infrastructure Engineer · Linux System Administrator · DevOps & Cloud Engineer**
+**Network & Infrastructure · Linux SysAdmin · DevOps & Cloud · Data Engineering**
 📍 Plovdiv, Bulgaria &nbsp;|&nbsp; 📧 [kaloyan.stankov@yahoo.com](mailto:kaloyan.stankov@yahoo.com) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/kaloyanstankov)
 
 ---
@@ -42,13 +42,3 @@ I believe in automation over repetition, documentation over tribal knowledge, an
 | ⚙️ [ansible-infrastructure-automation](https://github.com/kaloyans/ansible-infrastructure-automation) | Ansible roles for CIS hardening, configuration management & monitoring agent deployment |
 | 🗄️ [postgresql-dba-toolkit](https://github.com/kaloyans/postgresql-dba-toolkit) | PostgreSQL backup automation, streaming replication, performance tuning & monitoring queries |
 | 🐍 [python-data-engineering](https://github.com/kaloyans/python-data-engineering) | ETL pipelines, PostgreSQL integration, automated reporting & database health monitoring |
-
----
-
-## Certifications
-- Docker & Kubernetes: The Practical Guide
-- Mastering Linux: The Comprehensive Guide
-
----
-
-*"Automate the boring stuff. Document everything else."*
