@@ -20,12 +20,12 @@ I believe in automation over repetition, documentation over tribal knowledge, an
 | Area | Technologies |
 |------|-------------|
 | **Operating Systems** | Linux (RHEL / Ubuntu / Debian), Windows Server |
-| **Cloud** | Google Cloud Platform · AWS · Azure |
+| **Cloud & IaC** | Google Cloud Platform (GCP) · AWS · Azure · Terraform |
 | **Monitoring** | Grafana · Prometheus · OpenSearch · Zabbix · Site24/7 |
 | **Incident Management** | PagerDuty · Opsgenie · Jira · RCA |
-| **Containers** | Docker · Kubernetes (basic) |
+| **Containers & Orchestration** | Docker · Kubernetes (GKE) |
 | **Networking** | DNS · DHCP · Routing · Switching · VPN · Firewall |
-| **Automation & IaC** | Bash · Python · Ansible · Terraform · Jenkins · Git |
+| **Automation & Pipelines** | Bash · Python · Ansible · Jenkins · Git · GitHub Actions |
 | **Databases** | PostgreSQL (DBA, replication, performance tuning) |
 | **Virtualisation** | VMware ESXi · Hyper-V · KVM |
 
@@ -35,6 +35,7 @@ I believe in automation over repetition, documentation over tribal knowledge, an
 
 | Repository | Description |
 |------------|-------------|
+| 🚀 [mobile-backend-migration-poc](https://github.com/kaloyans/mobile-backend-migration-poc) | Proof of concept migrating a legacy mobile API to GCP using GKE, Terraform, Cloud SQL Auth Proxy, and GitHub Actions with Workload Identity Federation. |
 | 🔭 [infra-monitoring-stack](https://github.com/kaloyans/infra-monitoring-stack) | Production-grade monitoring with Prometheus, Grafana & Alertmanager |
 | 🛠️ [linux-sysadmin-toolkit](https://github.com/kaloyans/linux-sysadmin-toolkit) | Bash scripts for everyday Linux administration tasks |
 | 🌐 [network-lab](https://github.com/kaloyans/network-lab) | Network topologies, DNS/DHCP configs, VPN & firewall setups |
