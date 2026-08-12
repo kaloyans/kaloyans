@@ -35,6 +35,7 @@ I believe in automation over repetition, documentation over tribal knowledge, an
 
 | Repository | Description |
 |------------|-------------|
+| ☁️ [cloudflare-infrastructure-toolkit](https://github.com/kaloyans/cloudflare-infrastructure-toolkit) | Cloudflare DNS, WAF, Workers & CDN configuration managed as code with Terraform |
 | 🚀 [mobile-backend-migration-poc](https://github.com/kaloyans/mobile-backend-migration-poc) | Proof of concept migrating a legacy mobile API to GCP using GKE, Terraform, Cloud SQL Auth Proxy, and GitHub Actions with Workload Identity Federation. |
 | 🔭 [infra-monitoring-stack](https://github.com/kaloyans/infra-monitoring-stack) | Production-grade monitoring with Prometheus, Grafana & Alertmanager |
 | 🛠️ [linux-sysadmin-toolkit](https://github.com/kaloyans/linux-sysadmin-toolkit) | Bash scripts for everyday Linux administration tasks |
